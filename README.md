@@ -1,2 +1,1 @@
-# oc-api-plugin
-Application Programming Interface
+# Application Programming Interface
